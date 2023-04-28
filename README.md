@@ -9,6 +9,9 @@ pipenv run python project2.py --N 5 --ingredient paprika
                                     --ingredient banana 
                                     --ingredient "rice krispies" 
 Tree structure for the files in Cuisine Predictor are :
+
+
+
 <img width="392" alt="treesnippet" src="https://user-images.githubusercontent.com/51265009/235031190-9dba89d5-1c4e-42dd-8c4b-613690d9ab9f.PNG">
 
 
