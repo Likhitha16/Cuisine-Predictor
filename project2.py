@@ -35,7 +35,7 @@ def cuisine_predictor(N,input_final):
 
 
 def readfile():
-    fname = "/home/chandralikhitha16/cs5293sp23-project2/docs/yummly.json"
+    fname = "../cs5293sp23-project2/docs/yummly.json"
     data = pd.read_json(fname)
     return data
 
